@@ -1,0 +1,9 @@
+.card-style{
+    background-color: rgb(54, 164, 216);
+    border: 2px solid rosybrown;
+    color: #fff;
+    border-radius: 10px;
+}
+.flag{
+    max-width: 300px;
+}
